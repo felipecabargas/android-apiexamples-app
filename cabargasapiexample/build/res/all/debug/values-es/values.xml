@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Acerca de</string>
+    <string name="app_name">Ejemplos de la API</string>
+    <string name="appwelcome">Esta App muestra las capacidades de la API de Android >2.3</string>
+    <string name="welcome">Bienvenido !</string>
+
+</resources>

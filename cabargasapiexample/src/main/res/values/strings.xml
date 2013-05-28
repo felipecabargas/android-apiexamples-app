@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >API Examples</string>
+    <string name="action_settings" >About</string>
+    <string name="welcome">Welcome !</string>
+    <string name="appwelcome"><![CDATA[This App shows the >Android 2.3 API capacities. ]]></string>
+
+</resources>
