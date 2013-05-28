@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.Context;
 
 public class WelcomeActivity extends Activity {
 
@@ -18,16 +19,30 @@ public class WelcomeActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.welcome_activity);
 
-        // Assuming you are using xml layout
-        Button button = (Button)findViewById(R.id.button);
+        Button getcode = (Button)findViewById(R.id.downloadbutton);
 
-        button.setOnClickListener(new View.OnClickListener() {
+        getcode.setOnClickListener(new View.OnClickListener() {
             public void onClick(View arg0) {
                 Intent viewIntent =
                         new Intent("android.intent.action.VIEW",
                                 Uri.parse("http://www.github.com/felipecabargas/android-apiexamples-app"));
                 startActivity(viewIntent);
             }
+        });
+
+        final Context context = this;
+        Button button = (Button)findViewById(R.id.button);
+
+        button.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+
+                Intent intent = new Intent(context, ExamplesActivity.class);
+                startActivity(intent);
+
+            }
+
         });
     }
 

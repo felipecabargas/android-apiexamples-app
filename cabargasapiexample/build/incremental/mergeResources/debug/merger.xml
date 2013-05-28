@@ -129,6 +129,11 @@
                 path="/Users/Felipe/AndroidStudioProjects/cabargasapiexample/cabargasapiexample/src/main/res/layout/about_dialog.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="example_activity"
+                path="/Users/Felipe/AndroidStudioProjects/cabargasapiexample/cabargasapiexample/src/main/res/layout/example_activity.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/Felipe/AndroidStudioProjects/cabargasapiexample/cabargasapiexample/build/res/rs/debug" />
     </dataSet>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
-      <GlobalState />
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
     </option>
   </component>
   <component name="AndroidLayouts">
@@ -27,19 +29,29 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2498d2d-189e-4837-b854-9fb6a866c1b0" name="Default" comment="" />
+    <list default="true" id="c2498d2d-189e-4837-b854-9fb6a866c1b0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/ExamplesActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/example_activity.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabargasapiexample/build/source/r/debug/com/example/cabargasapiexample/R.java" afterPath="$PROJECT_DIR$/cabargasapiexample/build/source/r/debug/com/example/cabargasapiexample/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java" afterPath="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabargasapiexample/build/res/all/debug/layout/welcome_activity.xml" afterPath="$PROJECT_DIR$/cabargasapiexample/build/res/all/debug/layout/welcome_activity.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml" afterPath="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="cabargasapiexample.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/strings.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369712151070" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369711621066" ignored="false" />
-    <file path="/Dummy.txt" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369717324066" ignored="false" />
-    <file path="$PROJECT_DIR$/cabargasapiexample/build/source/r/debug/com/example/cabargasapiexample/R.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369717213266" ignored="false" />
-    <file path="/welcome_activity.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369712078542" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369720232699" ignored="false" />
+    <file path="/Dummy.txt" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369721466625" ignored="false" />
+    <file path="/welcome_activity.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369717724599" ignored="false" />
     <file path="/styles.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369712345751" ignored="false" />
     <file path="/welcome.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369715173631" ignored="false" />
     <file path="/AboutDialog.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369714806907" ignored="false" />
-    <file path="/WelcomeActivity.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369717144898" ignored="false" />
+    <file path="/WelcomeActivity.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369720066201" ignored="false" />
     <file path="/a.xml" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369716564263" ignored="false" />
+    <file path="/fragment.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369719514704" ignored="false" />
+    <file path="/ExamplesActivity.java" changelist="c2498d2d-189e-4837-b854-9fb6a866c1b0" time="1369720934060" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +120,11 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="27" column="56" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#423#441#0" expanded="true" />
+                <element signature="e#602#620#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +132,7 @@
       <file leaf-file-name="welcome_activity.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="32" selection-start="1633" selection-end="1633" vertical-scroll-proportion="-11.111111">
+            <state line="47" column="43" selection-start="2025" selection-end="2025" vertical-scroll-proportion="-16.666666">
               <folding>
                 <element signature="e#691#708#0" expanded="true" />
                 <element signature="e#1103#1123#0" expanded="true" />
@@ -129,16 +144,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="example_activity.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/example_activity.xml">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="34" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelcomeActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42" selection-start="542" selection-end="542" vertical-scroll-proportion="0.2293578">
+            <state line="48" column="0" selection-start="1422" selection-end="1653" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#691#1040#0" expanded="true" />
-                <element signature="e#1029#1030#0" expanded="true" />
-                <element signature="e#1873#2136#0" expanded="true" />
-                <element signature="e#2117#2118#0" expanded="true" />
+                <element signature="e#688#1037#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1173#1412#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#2245#2508#0" expanded="true" />
+                <element signature="e#2489#2490#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExamplesActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/ExamplesActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="25" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,18 +221,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/main_activity.xml" />
-        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/values-es/strings.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/values-v11/styles.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/values-v14/styles.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/about_dialog.xml" />
-        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/build/res/all/debug/menu/welcome.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/AboutDialog.java" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/menu/welcome.xml" />
+        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml" />
         <option value="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java" />
+        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/ExamplesActivity.java" />
+        <option value="$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/example_activity.xml" />
       </list>
     </option>
   </component>
@@ -194,7 +254,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -290,6 +350,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cabargasapiexample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cabargasapiexample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cabargasapiexample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,19 +635,19 @@
       <created>1369709768011</created>
       <updated>1369709768011</updated>
       <workItem from="1369709896335" duration="5900000" />
-      <workItem from="1369716029595" duration="1558000" />
+      <workItem from="1369716029595" duration="5472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7458000" />
+    <option name="totallyTimeSpent" value="11372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="22" width="1900" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955772" sideWeight="0.67017543" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955772" sideWeight="0.67017543" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32955772" sideWeight="0.66549706" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32955772" sideWeight="0.66549706" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.67017543" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -565,15 +655,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973032" sideWeight="0.67017543" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973032" sideWeight="0.67017543" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919094" sideWeight="0.66549706" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33450294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -643,26 +733,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#691#1040#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1873#2136#0" expanded="true" />
-            <element signature="e#2117#2118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/menu/welcome.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="32" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cabargasapiexample/build/manifests/debug/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="129" selection-start="364" selection-end="364" vertical-scroll-proportion="0.110091746" />
@@ -683,13 +753,6 @@
     <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values-v14/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="57" selection-start="273" selection-end="273" vertical-scroll-proportion="0.19266056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="188" selection-end="188" vertical-scroll-proportion="0.13761468">
           <folding />
         </state>
       </provider>
@@ -716,9 +779,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="191" selection-end="191" vertical-scroll-proportion="0.16513762">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="56" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#423#441#0" expanded="true" />
+            <element signature="e#602#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/welcome_activity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1633" selection-end="1633" vertical-scroll-proportion="-11.111111">
+        <state line="47" column="43" selection-start="2025" selection-end="2025" vertical-scroll-proportion="-16.666666">
           <folding>
             <element signature="e#691#708#0" expanded="true" />
             <element signature="e#1103#1123#0" expanded="true" />
@@ -729,31 +809,52 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="191" selection-end="191" vertical-scroll-proportion="0.16513762">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/WelcomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="542" selection-end="542" vertical-scroll-proportion="0.2293578">
+        <state line="48" column="0" selection-start="1422" selection-end="1653" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#691#1040#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1873#2136#0" expanded="true" />
-            <element signature="e#2117#2118#0" expanded="true" />
+            <element signature="e#688#1037#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1173#1412#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#2245#2508#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/java/com/example/cabargasapiexample/ExamplesActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabargasapiexample/src/main/res/layout/example_activity.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
